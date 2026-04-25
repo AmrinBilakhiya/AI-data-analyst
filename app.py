@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="AI-Auto Analyst",
-    page_icon="🔬",
+    page_icon="🤖",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -65,7 +65,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     <div class="sidebar-footer">
-        Built for non-tech users 🚀<br>
+        Built for non-tech users <br>
         <small>No API key needed</small>
     </div>
     """, unsafe_allow_html=True)
