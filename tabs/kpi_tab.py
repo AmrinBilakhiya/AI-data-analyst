@@ -21,7 +21,7 @@ def render():
     </div>
     """, unsafe_allow_html=True)
 
-    df = st.session_state.get("df_clean") or st.session_state.get("df")
+    df = st.session_state.get("df_clean") if st.session_state.get("df_clean") is not None else st.session_state.get("df")
     if df is None:
         st.warning("⚠️ Please upload a file first.")
         if st.button("Go to Upload"):
