@@ -1,12 +1,12 @@
-# 🔬 DataSense AI — Free AI Data Analyst
+# AI Data Analyst
 
 A powerful, beautiful **no-code data analytics web app** built with Streamlit. Upload any CSV or Excel file and instantly get:
 
-- 🧹 **Auto Data Cleaning** — dates, duplicates, casing, currencies
-- 📊 **KPI Dashboard** — key metrics auto-detected from your data
-- 📈 **Interactive Charts** — 8+ auto-generated visualizations
-- 💬 **Ask Your Data** — plain English questions, no SQL needed
-- ⚠️ **Outlier Detection** — IQR-based anomaly flagging
+- **Auto Data Cleaning** — dates, duplicates, casing, currencies
+- **KPI Dashboard** — key metrics auto-detected from your data
+- **Interactive Charts** — 8+ auto-generated visualizations
+- **Ask Your Data** — plain English questions, no SQL needed
+- **Outlier Detection** — IQR-based anomaly flagging
 
 **No API key required. Completely free to run.**
 
